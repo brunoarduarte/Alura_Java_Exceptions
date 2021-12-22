@@ -1,4 +1,4 @@
-import com.sun.org.apache.bcel.internal.generic.NEW;
+// unchecked
 
 public class FluxoComTratamento {
     public static void main(String[] args) {
